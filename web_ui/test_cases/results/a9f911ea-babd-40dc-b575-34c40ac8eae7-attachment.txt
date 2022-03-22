@@ -1,0 +1,21 @@
+INFO     root:base.py:21 实例化webdriver
+INFO     root:base.py:23 隐式等待3s
+INFO     root:base.py:25 窗口最大化
+INFO     root:base.py:28 不能直接进入首页，系统会重定向到登录页
+INFO     root:base.py:42 注入cookie
+INFO     root:base.py:44 页面跳转到首页
+INFO     root:test_add_member.py:36 实例化首页
+INFO     root:test_add_member.py:45 开始测试企业微信添加成员功能
+INFO     root:main_page.py:36 点击通讯录选项
+INFO     root:main_page.py:39 跳转到通讯录页
+INFO     root:contact_page.py:36 点击添加成员按钮
+INFO     root:contact_page.py:39 跳转到添加成员页面
+INFO     root:add_member_page.py:30 输入姓名
+INFO     root:add_member_page.py:33 输入身份证
+INFO     root:add_member_page.py:36 输入手机号
+INFO     root:add_member_page.py:39 点击保存按钮
+INFO     root:add_member_page.py:42 页面跳转到通讯录页
+INFO     root:contact_page.py:29 获取通讯录所有成员的姓名
+INFO     root:test_add_member.py:52 链式调用
+INFO     root:test_add_member.py:55 断言 田淑兰 在 ['李涛', '田淑兰', '张琪慧'] 成员列表中
+INFO     root:test_add_member.py:41 关闭浏览器
