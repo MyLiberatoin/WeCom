@@ -1,0 +1,7 @@
+appActivity: .launch.LaunchSplashActivity
+appPackage: com.tencent.wework
+deviceName: 5JP0217715002811
+noReset: true
+platformName: Android
+platformVersion: '9'
+skipServerInstallation: true
